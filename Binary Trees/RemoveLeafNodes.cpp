@@ -1,3 +1,4 @@
+/*
 Remove Leaf nodes
 Remove all leaf nodes from a given Binary Tree. Leaf nodes are those nodes, which don't have any children.
 Note : Root will also be a leaf node if it doesn't have left and right child. You don't need to print the tree, just remove all leaf nodes and return the updated root.
